@@ -6,7 +6,7 @@
 *Experto en PostgreSQL, Docker y entornos Linux.*
 
 # Sobre mí
-Soy Desarrollador Web Full Stack especializado en el diseño de **APIs REST con Go (Echo)** y en la construcción de **frontends escalables con Angular y Astro**. Tengo experiencia en el manejo de **PostgreSQL, Docker y entornos Linux**, aplicando buenas prácticas de arquitectura limpia y código mantenible. Me apasiona el aprendizaje continuo y la creación de soluciones eficientes que aporten valor real a los proyectos.
+Desarrollador **Web Full Stack** con experiencia en **Go (Echo), Angular, Astro y PostgreSQL**. Especialista en APIs REST, despliegues con Docker y administración de entornos en Linux. Apasionado por la arquitectura limpia, la automatización con **Bash & YAML**, y la construcción de aplicaciones escalables.
 
 # Tecnologías y herramientas
 * **Backend:** Go (Echo)
@@ -29,7 +29,7 @@ Soy Desarrollador Web Full Stack especializado en el diseño de **APIs REST con 
 # Formación y certificaciones
 
 * **Ingeniero de Sistemas – USC (2024)**
-* **Certificaciones Platzi:** Rust, Backend con Rust, Frontend Developer, Git y GitHub, Linux.
+* **Certificaciones Platzi:** Go, Backend con Go, Frontend Developer, Git, Linux y otros.
 
 # GitHub Stats
 
@@ -53,12 +53,17 @@ Soy Desarrollador Web Full Stack especializado en el diseño de **APIs REST con 
   <br />
 </div>
 
-# Contacto
+# Social media
 
-* 📧 [E-Mail](mailto:Carlos.Calderon01@Outlook.com) 🔗 [LinkedIn](https://www.linkedin.com/in/carloscalderondev/) 🐙 [GitHub](https://github.com/CarlosCalderonDev)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/carloscalderondev/)
+* 🐙 [GitHub](https://github.com/CarlosCalderonDev)
 
-* 🎥 [YouTube](https://www.youtube.com/@CarlosCalderonDev) 🎮 [Twitch](https://www.twitch.tv/CarlosCalderonDev) 🎮 [Kick](https://kick.com/CarlosCalderonDev) 🎵 [TikTok](https://www.tiktok.com/@CarlosCalderonDev)
+* 🎥 [YouTube](https://www.youtube.com/@CarlosCalderonDev)
+* 🎮 [Twitch](https://www.twitch.tv/CarlosCalderonDev)
+* 🎮 [Kick](https://kick.com/CarlosCalderonDev)
+* 🎵 [TikTok](https://www.tiktok.com/@carloscalderondev)
 
-* 📘 [Facebook](https://www.facebook.com/CarlosCalderonDev/) 📸 [Instagram](https://www.instagram.com/CarlosCalderonDev/) 🧵 [Threads](https://www.threads.net/@CarlosCalderonDev)
-
-* ✍️ [Medium](https://CarlosCalderonDev.medium.com) 💻 [DEV.to](https://dev.to/CarlosCalderonDev)
+* 📘 [Facebook](https://www.facebook.com/profile.php?id=61580695942536)
+* 📸 [Instagram](https://www.instagram.com/CarlosCalderonDev/)
+* 🧵 [Threads](https://www.threads.net/@CarlosCalderonDev)
+* ✖️ [X (Twitter)](https://x.com/CACB_DEV)
