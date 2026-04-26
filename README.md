@@ -21,19 +21,27 @@ Me adapto fácilmente a nuevos entornos tecnológicos, integrándome en equipos 
 
 ---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Backend](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+
+![Frontend](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Frontend](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Frontend](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+![Base de datos](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Base de datos](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![DevOps](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![DevOps](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![Automatización / Soporte](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Automatización / Soporte](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Automatización / Soporte](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+
+</div>
 
 # Formación y certificaciones
 
