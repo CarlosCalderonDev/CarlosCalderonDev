@@ -18,22 +18,24 @@ Me adapto fácilmente a nuevos entornos tecnológicos, integrándome en equipos 
 * **DevOps / Entornos:** Docker, Linux, Git
 * **Automatización / Soporte:** Python, Bash & YAML
 * **Testing:** Unit Tests, E2E Testing
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
 
 # Formación y certificaciones
 
-* **Ingeniero de Sistemas – USC (2024)**
-* **Certificaciones Platzi:** Go, Backend con Go, Frontend Developer, Git, Linux y otros.
+* **Ingeniero de Sistemas – Universidad Santiago de Cali (2024)**
+* **Certificaciones Platzi:** Rust Básico, Backend con Rust, Frontend Developer, Git, Linux, Python y otros.
 
 # GitHub Stats
 
@@ -56,7 +58,6 @@ Me adapto fácilmente a nuevos entornos tecnológicos, integrándome en equipos 
     </div>
   <br />
 </div>
-
 # Social media
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/carloscalderondev/)
