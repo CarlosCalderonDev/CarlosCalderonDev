@@ -1,19 +1,23 @@
 ![Header](./github-header-banner.png)
 
-# Carlos Calderón — Full Stack Developer
+# Carlos Calderón — Web Developer
 
-*Especializado en Backend con Go (Echo) y Frontend con Angular & Astro.*
-*Experto en PostgreSQL, Docker y entornos Linux.*
+*Especializado en Backend con Node.js + NestJS y Frontend con React & Next.js.*  
+*Experto en PostgreSQL, MongoDB, Docker y entornos Linux.*
 
 # Sobre mí
-Desarrollador **Web Full Stack** con experiencia en **Go (Echo), Angular, Astro y PostgreSQL**. Especialista en APIs REST, despliegues con Docker y administración de entornos en Linux. Apasionado por la arquitectura limpia, la automatización con **Bash & YAML**, y la construcción de aplicaciones escalables.
+Desarrollador **Web** con experiencia en **Node.js + NestJS, React + TypeScript, Next.js, PostgreSQL y MongoDB**.  
+Aplico principios de programación como **SOLID, Clean Code y Clean Architecture**, enfocándome en el desarrollo escalable y un manejo eficiente de bases de datos.  
+He trabajado en proyectos independientes y colaborativos, utilizando **metodologías ágiles** y apoyándome en **inteligencia artificial** para optimizar tareas y mejorar la calidad del código.  
+Me adapto fácilmente a nuevos entornos tecnológicos, integrándome en equipos multidisciplinarios y enfocándome en construir aplicaciones robustas y mantenibles.
 
 # Tecnologías y herramientas
-* **Backend:** Go (Echo)
-* **Frontend:** TypeScript (Angular & Astro)
-* **Base de datos:** PostgreSQL
-* **DevOps:** Docker, Linux, Git
-* **Automatización / Soporte:** Bash & YAML
+* **Backend:** Node.js + NestJS
+* **Frontend:** React + TypeScript, Next.js
+* **Base de datos:** PostgreSQL, MongoDB
+* **DevOps / Entornos:** Docker, Linux, Git
+* **Automatización / Soporte:** Python, Bash & YAML
+* **Testing:** Unit Tests, E2E Testing
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
