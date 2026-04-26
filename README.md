@@ -25,13 +25,13 @@ Me adapto fácilmente a nuevos entornos tecnológicos, integrándome en equipos 
 
 ![Backend](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Backend](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Base de datos](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Base de datos](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ![Frontend](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Frontend](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Frontend](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-![Base de datos](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Base de datos](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ![DevOps](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![DevOps](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
