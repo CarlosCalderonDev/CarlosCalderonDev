@@ -18,6 +18,9 @@ Me adapto fácilmente a nuevos entornos tecnológicos, integrándome en equipos 
 * **DevOps / Entornos:** Docker, Linux, Git
 * **Automatización / Soporte:** Python, Bash & YAML
 * **Testing:** Unit Tests, E2E Testing
+
+---
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
