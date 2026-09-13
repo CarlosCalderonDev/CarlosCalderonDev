@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="./github-header-banner.png" alt="Carlos Calderon | Web Developer" width="100%">
+<img src="./github-header-banner.png" alt="Carlos Calderon | Desarrollador Web" width="100%">
 
 # Carlos Calderon
 
-### Systems Engineer · Full Stack Web Developer
+### Ingeniero de Sistemas · Desarrollador Web Full Stack
 
 <a href="https://github.com/CarlosCalderonDev"><img src="https://img.shields.io/badge/GitHub-CarlosCalderonDev-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/carloscalderondev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="mailto:Carlos.Calderon01@Outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/carloscalderondev/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:Carlos.Calderon01@Outlook.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"></a>
 
 </div>
 
-## About me
+## Sobre mí
 
-I build web applications and REST APIs with a focus on clean architecture, maintainable code, and practical solutions. I enjoy learning in public, documenting what I discover, and sharing real development workflows through projects and live streams.
+Construyo aplicaciones web y APIs REST con énfasis en arquitectura limpia, código mantenible y soluciones prácticas. Me gusta aprender en público, documentar mis descubrimientos y compartir flujos de trabajo reales mediante proyectos y transmisiones en vivo.
 
-- Based in Colombia, available for remote, hybrid, or on-site opportunities.
-- Interested in backend, frontend, and full stack development.
-- B.Sc. in Systems Engineering from Universidad Santiago de Cali, 2024.
+- Vivo en Colombia y estoy disponible para oportunidades remotas, híbridas o presenciales.
+- Me interesa el desarrollo backend, frontend y full stack.
+- Ingeniero de Sistemas de la Universidad Santiago de Cali, 2024.
 
-## My toolkit
+## Mi conjunto de herramientas
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ I build web applications and REST APIs with a focus on clean architecture, maint
 
 `React` · `TypeScript` · `Next.js`
 
-### Data
+### Datos
 
 `PostgreSQL`
 
@@ -45,11 +45,11 @@ I build web applications and REST APIs with a focus on clean architecture, maint
 
 `Docker` · `Linux` · `Git`
 
-### Automation
+### Automatización
 
 `Python` · `Bash` · `YAML`
 
-### Quality
+### Calidad
 
 `Unit Tests`
 
@@ -57,60 +57,51 @@ I build web applications and REST APIs with a focus on clean architecture, maint
 </tr>
 </table>
 
-## CV and professional documents
+## Hoja de vida y documentos profesionales
 
 <div align="center">
 
-| Document | Link |
+| Documento | Enlace |
 | --- | --- |
-| Curriculum Vitae | [Download PDF](https://github.com/CarlosCalderonDev/CV/blob/main/PDF/CarlosCalderonDevCV.pdf) |
-| CV source | [Open LaTeX source](https://github.com/CarlosCalderonDev/CV/blob/main/CODE/CarlosCalderonDevCV.tex) |
-| CV repository | [Visit CarlosCalderonDev/CV](https://github.com/CarlosCalderonDev/CV) |
+| Hoja de vida | [Descargar PDF](https://github.com/CarlosCalderonDev/CV/blob/main/PDF/CarlosCalderonDevCV.pdf) |
+| Fuente del CV | [Abrir fuente LaTeX](https://github.com/CarlosCalderonDev/CV/blob/main/CODE/CarlosCalderonDevCV.tex) |
+| Repositorio del CV | [Visitar CarlosCalderonDev/CV](https://github.com/CarlosCalderonDev/CV) |
 
 </div>
 
-## Creating and learning
+## Creación y aprendizaje
 
-I share practical programming content through live streams, technical notes, and professional publications. The focus is on building real projects, improving development workflows, and learning continuously with my core stack.
+Comparto contenido práctico de programación mediante transmisiones en vivo, notas técnicas y publicaciones profesionales. Mi enfoque está en construir proyectos reales, mejorar los flujos de trabajo y aprender continuamente con mi stack principal.
 
-### Live stream description
+### Descripción de las transmisiones
 
-> Welcome to another live programming session with Carlos Calderon. Follow along as I work on real projects, explore practical development workflows, and share what I learn along the way.
+> Bienvenido a otra sesión de programación en vivo con Carlos Calderon. Acompáñame mientras trabajo en proyectos reales, exploro flujos de trabajo prácticos y comparto lo que aprendo durante el proceso.
 >
-> **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carloscalderondev/) · [GitHub](https://github.com/CarlosCalderonDev) · [YouTube](https://www.youtube.com/@CarlosCalderonDev)
+> **Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/carloscalderondev/) · [GitHub](https://github.com/CarlosCalderonDev) · [YouTube](https://www.youtube.com/@CarlosCalderonDev)
 
-### YouTube thumbnail checklist
+## Encuéntrame en línea
 
-- **1280 x 720 px minimum** with a **16:9** aspect ratio.
-- Maximum file size of **2 MB**.
-- Prefer JPG or PNG with sharp images and strong contrast.
-- Keep the text short, large, and readable; fewer than six words is ideal.
-
-The source templates and content drafts are available in [`content/`](./content/).
-
-## Find me online
-
-| Platform | Link | Platform | Link |
+| Plataforma | Enlace | Plataforma | Enlace |
 | --- | --- | --- | --- |
 | LinkedIn | [carloscalderondev](https://www.linkedin.com/in/carloscalderondev/) | YouTube | [@CarlosCalderonDev](https://www.youtube.com/@CarlosCalderonDev) |
 | GitHub | [CarlosCalderonDev](https://github.com/CarlosCalderonDev) | Instagram | [@CarlosCalderonDev](https://www.instagram.com/CarlosCalderonDev/) |
 | TikTok | [@CarlosCalderonDev](https://www.tiktok.com/@CarlosCalderonDev) | X | [@CACB_DEV](https://x.com/CACB_DEV) |
 | Twitch | [CarlosCalderonDev](https://www.twitch.tv/CarlosCalderonDev) | Kick | [CarlosCalderonDev](https://kick.com/CarlosCalderonDev) |
-| Facebook | [Profile](https://www.facebook.com/profile.php?id=61580695942536) | Threads | [@CarlosCalderonDev](https://www.threads.net/@CarlosCalderonDev) |
+| Facebook | [Perfil](https://www.facebook.com/profile.php?id=61580695942536) | Threads | [@CarlosCalderonDev](https://www.threads.net/@CarlosCalderonDev) |
 | Medium | [CarlosCalderonDev](https://CarlosCalderonDev.medium.com) | DEV.to | [CarlosCalderonDev](https://dev.to/CarlosCalderonDev) |
 
-## Repository guide
+## Guía del repositorio
 
 ```text
-README.md   Profile, links, technologies, and featured content
-content/    Posts, social links, learning notes, and reusable templates
-temp/       Local archive excluded from the public presentation
+README.md   Perfil, enlaces, tecnologías y contenido destacado
+content/    Publicaciones, redes sociales, notas y plantillas reutilizables
+temp/       Archivo local excluido de la presentación pública
 ```
 
 <div align="center">
 
-### Thanks for stopping by
+### Gracias por visitar mi perfil
 
-⭐ Explore the repositories, follow the journey, and build something useful.
+⭐ Explora los repositorios, acompaña el proceso y construye algo útil.
 
 </div>
