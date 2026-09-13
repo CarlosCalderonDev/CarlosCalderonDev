@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-header-banner.png" alt="Carlos Calderon | Desarrollador Web" width="100%">
+![Carlos Calderon | Desarrollador Web](./github-header-banner.png)
 
 # Carlos Calderon
 
