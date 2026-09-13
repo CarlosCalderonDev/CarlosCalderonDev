@@ -20,6 +20,20 @@ Construyo aplicaciones web y APIs REST con énfasis en arquitectura limpia, cód
 - Me interesa el desarrollo backend, frontend y full stack.
 - Ingeniero de Sistemas de la Universidad Santiago de Cali, 2024.
 
+## Mi portafolio
+
+Conoce mis proyectos, experiencia y perfil profesional en mi sitio web personal.
+
+<div align="center">
+
+<a href="https://about-me-vert-five.vercel.app/"><img src="https://img.shields.io/badge/Visitar%20portafolio-about--me--vert--five.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar portafolio personal"></a>
+
+<br>
+
+<a href="https://about-me-vert-five.vercel.app/">https://about-me-vert-five.vercel.app/</a>
+
+</div>
+
 ## Mi conjunto de herramientas
 
 <table>
