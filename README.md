@@ -1,75 +1,116 @@
-![Carlos Calderon | Web Developer](./github-header-banner.png)
+<div align="center">
+
+<img src="./github-header-banner.png" alt="Carlos Calderon | Web Developer" width="100%">
 
 # Carlos Calderon
 
-## Web Developer | Systems Engineer
+### Systems Engineer · Full Stack Web Developer
 
-I build maintainable web applications, REST APIs, and reliable development environments. My current focus is full-stack development with **Node.js, NestJS, React, TypeScript, PostgreSQL, Docker, and Linux**.
+<a href="https://github.com/CarlosCalderonDev"><img src="https://img.shields.io/badge/GitHub-CarlosCalderonDev-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/carloscalderondev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:Carlos.Calderon01@Outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-I care about clean architecture, clear communication, testing, and solutions that remain easy to evolve after the first release.
+</div>
 
-## Core stack
+## About me
 
-| Area | Technologies |
+I build web applications and REST APIs with a focus on clean architecture, maintainable code, and practical solutions. I enjoy learning in public, documenting what I discover, and sharing real development workflows through projects and live streams.
+
+- Based in Colombia, available for remote, hybrid, or on-site opportunities.
+- Interested in backend, frontend, and full stack development.
+- B.Sc. in Systems Engineering from Universidad Santiago de Cali, 2024.
+
+## My toolkit
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend
+
+`Node.js` · `NestJS`
+
+### Frontend
+
+`React` · `TypeScript` · `Next.js`
+
+### Data
+
+`PostgreSQL`
+
+</td>
+<td width="50%">
+
+### DevOps
+
+`Docker` · `Linux` · `Git`
+
+### Automation
+
+`Python` · `Bash` · `YAML`
+
+### Quality
+
+`Unit Tests`
+
+</td>
+</tr>
+</table>
+
+## CV and professional documents
+
+<div align="center">
+
+| Document | Link |
 | --- | --- |
-| Backend | Node.js, NestJS |
-| Frontend | React, TypeScript, Next.js |
-| Data | PostgreSQL |
-| DevOps | Docker, Linux, Git, Bash, YAML |
-| Automation | Python, Bash, YAML |
-| Quality | SOLID, Clean Architecture, unit testing |
+| Curriculum Vitae | [Download PDF](https://github.com/CarlosCalderonDev/CV/blob/main/PDF/CarlosCalderonDevCV.pdf) |
+| CV source | [Open LaTeX source](https://github.com/CarlosCalderonDev/CV/blob/main/CODE/CarlosCalderonDevCV.tex) |
+| CV repository | [Visit CarlosCalderonDev/CV](https://github.com/CarlosCalderonDev/CV) |
 
-## Featured documents
+</div>
 
-- [Download my CV (PDF)](https://github.com/CarlosCalderonDev/CV/blob/main/PDF/CarlosCalderonDevCV.pdf)
-- [View the CV source (LaTeX)](https://github.com/CarlosCalderonDev/CV/blob/main/CODE/CarlosCalderonDevCV.tex)
-- [Professional CV repository](https://github.com/CarlosCalderonDev/CV)
+## Creating and learning
 
-## Professional content and streaming
-
-I also create programming content through live streams, technical projects, and professional publications. My content focuses on practical software development, maintainable solutions, and continuous learning around my core technology stack.
+I share practical programming content through live streams, technical notes, and professional publications. The focus is on building real projects, improving development workflows, and learning continuously with my core stack.
 
 ### Live stream description
 
 > Welcome to another live programming session with Carlos Calderon. Follow along as I work on real projects, explore practical development workflows, and share what I learn along the way.
 >
-> Connect with me:
-> - [LinkedIn](https://www.linkedin.com/in/carloscalderondev/)
-> - [GitHub](https://github.com/CarlosCalderonDev)
-> - [YouTube](https://www.youtube.com/@CarlosCalderonDev)
+> **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carloscalderondev/) · [GitHub](https://github.com/CarlosCalderonDev) · [YouTube](https://www.youtube.com/@CarlosCalderonDev)
 
-### YouTube thumbnail standards
+### YouTube thumbnail checklist
 
-To keep published content consistent and professional, thumbnails should follow these guidelines:
-
-- Minimum resolution of **1280 x 720 pixels** with a **16:9** aspect ratio.
+- **1280 x 720 px minimum** with a **16:9** aspect ratio.
 - Maximum file size of **2 MB**.
-- Use JPG or PNG whenever possible, with sharp images and strong contrast.
-- Keep text short, large, and readable on small screens; preferably fewer than six words.
+- Prefer JPG or PNG with sharp images and strong contrast.
+- Keep the text short, large, and readable; fewer than six words is ideal.
 
-The original reusable templates are available in [content/TEMPLATE](./content/TEMPLATE/).
-
-## Education
-
-**B.Sc. in Systems Engineering** | Universidad Santiago de Cali, 2024
+The source templates and content drafts are available in [`content/`](./content/).
 
 ## Find me online
 
-- [LinkedIn](https://www.linkedin.com/in/carloscalderondev/)
-- [GitHub](https://github.com/CarlosCalderonDev)
-- [YouTube](https://www.youtube.com/@CarlosCalderonDev)
-- [Instagram](https://www.instagram.com/CarlosCalderonDev/)
-- [TikTok](https://www.tiktok.com/@CarlosCalderonDev)
-- [X](https://x.com/CACB_DEV)
+| Platform | Link | Platform | Link |
+| --- | --- | --- | --- |
+| LinkedIn | [carloscalderondev](https://www.linkedin.com/in/carloscalderondev/) | YouTube | [@CarlosCalderonDev](https://www.youtube.com/@CarlosCalderonDev) |
+| GitHub | [CarlosCalderonDev](https://github.com/CarlosCalderonDev) | Instagram | [@CarlosCalderonDev](https://www.instagram.com/CarlosCalderonDev/) |
+| TikTok | [@CarlosCalderonDev](https://www.tiktok.com/@CarlosCalderonDev) | X | [@CACB_DEV](https://x.com/CACB_DEV) |
+| Twitch | [CarlosCalderonDev](https://www.twitch.tv/CarlosCalderonDev) | Kick | [CarlosCalderonDev](https://kick.com/CarlosCalderonDev) |
+| Facebook | [Profile](https://www.facebook.com/profile.php?id=61580695942536) | Threads | [@CarlosCalderonDev](https://www.threads.net/@CarlosCalderonDev) |
+| Medium | [CarlosCalderonDev](https://CarlosCalderonDev.medium.com) | DEV.to | [CarlosCalderonDev](https://dev.to/CarlosCalderonDev) |
 
-## Repository map
+## Repository guide
 
 ```text
-CV/       Maintained in the separate CV repository
-content/  Social posts and communication templates
-temp/     Archived material kept out of the public presentation
+README.md   Profile, links, technologies, and featured content
+content/    Posts, social links, learning notes, and reusable templates
+temp/       Local archive excluded from the public presentation
 ```
 
-## Contact
+<div align="center">
 
-For professional opportunities, reach me at [Carlos.Calderon01@Outlook.com](mailto:Carlos.Calderon01@Outlook.com).
+### Thanks for stopping by
+
+⭐ Explore the repositories, follow the journey, and build something useful.
+
+</div>
